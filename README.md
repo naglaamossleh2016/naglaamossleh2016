@@ -12,7 +12,6 @@ Thank you for considering me. I look forward to collaborating with you and bring
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/naglaa-mossleh" target="_blank">My LinkedIn</a>
-<a href="https://t.me/YousefMohamed01" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 <!--
 **naglaamossleh2016/naglaamossleh2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
