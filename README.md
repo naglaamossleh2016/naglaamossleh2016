@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**naglaamossleh2016/naglaamossleh2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am a dedicated and experienced Full Stack Developer with a strong passion for creating exceptional web solutions. With 7 years of industry experience, my expertise lies in PHP, MYSQL, WordPress, JavaScript, jQuery, HTML, CSS, MOODLE, and SCORM LMS.
 
 I have successfully delivered a diverse range of projects, including responsive website development, WordPress customization, API integration, and e-learning platform implementation.
@@ -14,4 +9,9 @@ I excel at understanding clients' unique needs and providing tailored solutions 
 If you're in search of a reliable and skilled Full Stack Developer, let's connect and discuss how I can contribute to your web projects.
 
 Thank you for considering me. I look forward to collaborating with you and bringing your vision to life.
+
+<!--
+**naglaamossleh2016/naglaamossleh2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 -->
